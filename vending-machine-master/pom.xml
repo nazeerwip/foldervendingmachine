@@ -12,7 +12,7 @@
         <spring.version>4.2.1.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
-        <dbh2.version>1.4.187</dbh2.version>
+        <dbh2.version>2.1.210</dbh2.version>
     </properties>
  
     <dependencies>
